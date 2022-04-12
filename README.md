@@ -9,3 +9,6 @@ The goal of this project is to create a semi-autonomous magnetics data acquisiti
 # Design
 
 # Video?
+
+# Improvements
+There are many improvements that can be made and this project has many future potentials. 
