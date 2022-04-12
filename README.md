@@ -1,5 +1,5 @@
 # SAMDAT
-The goal of this project is to create a semi-autonomous magnetics data acquisition tool (SAMDAT). This project aims to create a low cost solution for quick time and easy data collection. 
+The goal of this project is to create a semi-autonomous magnetics data acquisition tool (SAMDAT). With the advancement of drones in the geophysics industry, quicker and more efficient geophysical surveys have become a reality, especially in areas with difficult terrain to walk heavy equipment for hours. Of course, there are many restrictions with drone usage, and it may not always be applicable to use drones for your survey. Another possibility for quick and efficient surveying would be to use an autonomous or semi-autonomous vehicle or “rover”. We see these being used on other planets, however in the geophysics industry on Earth this is not seen often. This project will aim to create a semi- autonomous tool to collect magnetic data. The goal is for the final product to be relatively low cost and to hopefully have the ability to be used for other geophysical applications.
 
 # Equipment
 - Magnetic Fluxgate (https://www.mouser.com/ProductDetail/Texas-Instruments/DRV425EVM?qs=yajEpaT76uTkcWWoySodDw%3D%3D&mgh=1&gclid=Cj0KCQjwxtSSBhDYARIsAEn0thRVnLII2vq4DKnGoKh8iU-lrGUxeFzoDiNuYIRZ3_PHS2sOGBCqnD4aAnOFEALw_wcB) 
