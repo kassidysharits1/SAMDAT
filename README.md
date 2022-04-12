@@ -7,3 +7,5 @@ The goal of this project is to create a semi-autonomous magnetics data acquisiti
 - Arduino Mega 2560 (https://store-usa.arduino.cc/products/arduino-mega-2560-rev3?selectedStore=us)
 
 # Design
+
+# Video?
