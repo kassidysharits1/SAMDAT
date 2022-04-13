@@ -14,3 +14,5 @@ Because the robotic car and the arduinos are magnetic, the magnetic fluxgate nee
 
 # Improvements
 There are many improvements that can be made and this project has many future potentials... 
+
+There is large potential with this project to be applied to other geophysical problems using various sensors. 
