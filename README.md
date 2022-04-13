@@ -10,12 +10,10 @@ The goal of this project is to create a semi-autonomous magnetics data acquisiti
 ### Attaching the magnetometer at a safe distance
 Because the robotic car and the arduinos are magnetic, the magnetic fluxgate needs to be suspended a safe distance from this equipment so that it does not pick up these magnetic anomalies and thus recording false anomalies. This was accounted for by 3D-printing a small rod that can be attached to the robotic car platform and extends roughly 5 inches out. We completed some testing with the magnetic fluxgate and the platform and found that magnetic fluxgate reports steady values once it is 5 inches away from the platform. We tested this while running the motor since this does produce a slightly larger anomaly.
 
-
-https://user-images.githubusercontent.com/103535565/163262386-d0fb4a19-50e7-44d8-9259-275ad082c4d8.MOV
-
+https://user-images.githubusercontent.com/103535565/163262615-a055875f-b65d-4c38-8e55-ccc3797bc589.MOV
 
 
-# Video?
+# Video
 
 # Improvements
 There are many improvements that can be made and this project has many future potentials... 
