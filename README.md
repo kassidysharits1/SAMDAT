@@ -13,6 +13,11 @@ The goal of this project is to create a semi-autonomous magnetics data acquisiti
 - 
 
 # Design
+### Robotic Car Kit
+
+### Motor Driver
+![motor_driver](https://user-images.githubusercontent.com/103535565/164101558-e775d63e-18be-4e0d-b080-7c64ecba2011.png)
+
 ### Magnetometer
 Connections: 
 ![mag_img](https://user-images.githubusercontent.com/103535565/164091672-be7d88c6-635e-4af5-af32-a8f0ed0f74d8.png)
