@@ -27,6 +27,7 @@ Below lists the approximated cost of equipment, this parts list assumes buying o
 - Battery: $20.89
 - 9V batteries: $2 (2)
 - GPS: 
+
 Total: $257.63
 
 # Design
