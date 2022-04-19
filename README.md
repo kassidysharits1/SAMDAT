@@ -77,6 +77,9 @@ We can make a video showing it in action here...
 
 # Improvements
 There are many improvements that can be made and this project has many future potentials... 
+
 Add a surveyor's wheel for better precision 
+
+Make some sort of box or cover to make it water proof? 
 
 There is large potential with this project to be applied to other geophysical problems using various sensors. By making interchangeable attachments, there is the potential to use other geophysical equipment. The 3D printed rod we attached for the magnetometer is removable and could be replaced with an attached cart that can hold various equipment. 
