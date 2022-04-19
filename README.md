@@ -16,6 +16,9 @@ The goal of this project is to create a semi-autonomous magnetics data acquisiti
 - Connectors for batteries, arduinos, sensors
 - 3D printed magnetometer extender 
 
+# Cost Analysis:
+- Robotics Kit: 
+
 # Design
 ### Robotic Car Kit
 Youtube video linked below with a walk through assembly for the 6 WD High Speed Crawler Robot Chassis with Suspension:
