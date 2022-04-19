@@ -71,6 +71,8 @@ Attached is the solid works file for the 10 inch 3D printed rod that extends fro
 
 ### GPS
 
+# Test Survey
+Location: Kafadar Commons, Colorado School of Mines
 
 # Video
 We can make a video showing it in action here...
