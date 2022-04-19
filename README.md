@@ -14,8 +14,10 @@ The goal of this project is to create a semi-autonomous magnetics data acquisiti
 
 # Design
 ### Robotic Car Kit
-Youtube video linked below with a walk through assembly for the 6 WD High Speed Crawler Robot Chassis with Suspension.
+Youtube video linked below with a walk through assembly for the 6 WD High Speed Crawler Robot Chassis with Suspension:
 https://www.youtube.com/watch?v=SU6XHG54L_c 
+Building guide linked below with equipment and build pictures:
+https://raw.githubusercontent.com/SeeedDocument/Outsourcing/master/6WD/Robot%20Car%20Kit-6WD%20Off-Road%20Chassis%20Kit%20Guide%20EN%20V1.0.pdf 
 ### Motor Driver
 ![driver](https://user-images.githubusercontent.com/103535565/164102437-c6398a9c-a44f-4706-99fa-0e535c9a6607.png)
 
