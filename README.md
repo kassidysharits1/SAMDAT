@@ -10,17 +10,24 @@ The goal of this project is to create a semi-autonomous magnetics data acquisiti
 - Arduino Mega 2560 (2) (https://store-usa.arduino.cc/products/arduino-mega-2560-rev3?selectedStore=us)
 - Ethernet Shield (https://www.amazon.com/SunFounder-Ethernet-Shield-W5100-Arduino/dp/B00HG82V1A/ref=asc_df_B00HG82V1A/?tag=hyprod-20&linkCode=df0&hvadid=309776868400&hvpos=&hvnetw=g&hvrand=204336615774606264&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9028824&hvtargid=pla-404289809670&psc=1)
 - Micro SD
-- Motor Driver (https://create.arduino.cc/projecthub/ryanchan/how-to-use-the-l298n-motor-driver-b124c5)
+- Motor Driver (3) (https://create.arduino.cc/projecthub/ryanchan/how-to-use-the-l298n-motor-driver-b124c5)
 - Battery to power car (https://hobbyking.com/en_us/turnigy-5000mah-3s-20c-lipo-pack-xt-90.html?wrh_pdp=2&utm_source=google&utm_medium=cpc&utm_campaign=google_us_shopping&countrycode=US&gclid=CjwKCAjwu_mSBhAYEiwA5BBmf9hNaCIyZdIzoVELx6cEg9BdRALHj29-YBhEXm_Waaq41nGKFEynphoCsN4QAvD_BwE)
 - 9V batteries for arduinos 
 - Connectors for batteries, arduinos, sensors
 - 3D printed magnetometer extender 
 
 # Cost Analysis:
-Below lists the approximated cost of equipment, this parts list assumes buying one sensor as opposed to discounted builk deliveries.
-- Robotics Kit: 
+Below lists the approximated cost of equipment, this parts list assumes buying one sensor as opposed to discounted builk deliveries and does not include tax and shipping.
+- Robotics Kit: $99.90
 - Magnetic Fluxgate: $24
-- 
+- Arduino Mega: $35.93 (2)
+- Ethernet Shield: $20.99
+- Micro SD: $9
+- Motor Driver: $6.99 (3)
+- Battery: $20.89
+- 9V batteries: $2 (2)
+- GPS: 
+Total: $257.63
 
 # Design
 ### Robotic Car Kit
