@@ -20,6 +20,10 @@ The goal of this project is to create a semi-autonomous magnetics data acquisiti
 
 ### Magnetometer
 Connections: 
+- top connection goes to REFOUT
+- second connection goes to VOUT
+- third connection goes to ground
+- fourth connection not used
 ![mag_img](https://user-images.githubusercontent.com/103535565/164091672-be7d88c6-635e-4af5-af32-a8f0ed0f74d8.png)
 Figure: Magnetic Fluxgate Top View
 ![diagram_mag](https://user-images.githubusercontent.com/103535565/164091989-8241e264-c293-4d68-9656-0c15013473b7.png)
