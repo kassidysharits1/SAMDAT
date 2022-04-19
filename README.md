@@ -9,6 +9,7 @@ The goal of this project is to create a semi-autonomous magnetics data acquisiti
 
 # Design
 ### Magnetometer
+Connections: 
 ![mag_img](https://user-images.githubusercontent.com/103535565/164091672-be7d88c6-635e-4af5-af32-a8f0ed0f74d8.png)
 Figure: Magnetic Fluxgate Top View
 ![diagram_mag](https://user-images.githubusercontent.com/103535565/164091989-8241e264-c293-4d68-9656-0c15013473b7.png)
@@ -26,5 +27,6 @@ We can make a video showing it in action here...
 
 # Improvements
 There are many improvements that can be made and this project has many future potentials... 
+Add a surveyor's wheel for better precision 
 
 There is large potential with this project to be applied to other geophysical problems using various sensors. By making interchangeable attachments, there is the potential to use other geophysical equipment. 
