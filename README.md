@@ -17,7 +17,10 @@ The goal of this project is to create a semi-autonomous magnetics data acquisiti
 - 3D printed magnetometer extender 
 
 # Cost Analysis:
+Below lists the approximated cost of equipment, this parts list assumes buying one sensor as opposed to discounted builk deliveries.
 - Robotics Kit: 
+- Magnetic Fluxgate: $24
+- 
 
 # Design
 ### Robotic Car Kit
