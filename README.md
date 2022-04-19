@@ -22,7 +22,10 @@ https://raw.githubusercontent.com/SeeedDocument/Outsourcing/master/6WD/Robot%20C
 ### Motor Driver
 ![driver](https://user-images.githubusercontent.com/103535565/164102437-c6398a9c-a44f-4706-99fa-0e535c9a6607.png)
 
-### Magnetometer
+### Battery
+
+
+### Magnetic Fluxgate 
 Connections: 
 - top connection goes to REFOUT
 - second connection goes to VOUT
@@ -39,6 +42,7 @@ Because the robotic car and the arduinos are magnetic, the magnetic fluxgate nee
 
 https://user-images.githubusercontent.com/103535565/163262615-a055875f-b65d-4c38-8e55-ccc3797bc589.MOV
 
+### GPS
 
 # Video
 We can make a video showing it in action here...
