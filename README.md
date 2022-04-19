@@ -14,7 +14,7 @@ The goal of this project is to create a semi-autonomous magnetics data acquisiti
 
 # Design
 ### Robotic Car Kit
-
+https://www.youtube.com/watch?v=SU6XHG54L_c 
 ### Motor Driver
 ![driver](https://user-images.githubusercontent.com/103535565/164102437-c6398a9c-a44f-4706-99fa-0e535c9a6607.png)
 
