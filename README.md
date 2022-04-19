@@ -11,7 +11,8 @@ The goal of this project is to create a semi-autonomous magnetics data acquisiti
 - Motor Driver (https://create.arduino.cc/projecthub/ryanchan/how-to-use-the-l298n-motor-driver-b124c5)
 - Battery to power car (https://hobbyking.com/en_us/turnigy-5000mah-3s-20c-lipo-pack-xt-90.html?wrh_pdp=2&utm_source=google&utm_medium=cpc&utm_campaign=google_us_shopping&countrycode=US&gclid=CjwKCAjwu_mSBhAYEiwA5BBmf9hNaCIyZdIzoVELx6cEg9BdRALHj29-YBhEXm_Waaq41nGKFEynphoCsN4QAvD_BwE)
 - 9V batteries for arduinos 
-- 
+- Connectors for batteries, arduinos, sensors
+- 3D printed magnetometer extender 
 
 # Design
 ### Robotic Car Kit
@@ -45,11 +46,15 @@ Figure: Schematic of Magnetic Fluxgate
 
 
 ### Attaching the magnetometer at a safe distance
-Because the robotic car and the arduinos are magnetic, the magnetic fluxgate needs to be suspended a safe distance from this equipment so that it does not pick up these magnetic anomalies and thus recording false anomalies. This was accounted for by 3D-printing a small rod that can be attached to the robotic car platform and extends roughly 5 inches out. We completed some testing with the magnetic fluxgate and the platform and found that magnetic fluxgate reports steady values once it is 5 inches away from the platform. We tested this while running the motor since this does produce a slightly larger anomaly.
+Because the robotic car and the arduinos are magnetic, the magnetic fluxgate needs to be suspended a safe distance from this equipment so that it does not pick up these magnetic anomalies and thus recording false anomalies. This was accounted for by 3D-printing a small rod that can be attached to the robotic car platform and extends roughly 5 inches out. We completed some testing with the magnetic fluxgate and the platform and found that magnetic fluxgate reports steady values once it is 5 inches away from the platform. We tested this while running the motor since this does produce a slightly larger anomaly. We decided to give 10 inches for extra measure. 
 
 https://user-images.githubusercontent.com/103535565/163262615-a055875f-b65d-4c38-8e55-ccc3797bc589.MOV
 
+### 3D Printed Magnetometer Extender
+Attached is the solid works file for the 10 inch 3D printed rod that extends from the car. 
+
 ### GPS
+
 
 # Video
 We can make a video showing it in action here...
