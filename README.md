@@ -20,11 +20,13 @@ https://www.youtube.com/watch?v=SU6XHG54L_c
 
 Building guide linked below with equipment and build pictures:
 https://raw.githubusercontent.com/SeeedDocument/Outsourcing/master/6WD/Robot%20Car%20Kit-6WD%20Off-Road%20Chassis%20Kit%20Guide%20EN%20V1.0.pdf 
+
+
 ### Motor Driver
+Note that we are not using a 9V battery, the battery to power the car is being used here.
 ![driver](https://user-images.githubusercontent.com/103535565/164105223-9fe2444b-2959-419b-9bd1-f1e9fb3f1ce8.png)
 Figure: Schematic of motor driver
-
-Note that we are not using a 9V battery, the battery to power the car is being used here. 
+ 
 
 ### Battery
 
