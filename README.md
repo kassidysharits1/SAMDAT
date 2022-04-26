@@ -50,6 +50,7 @@ Figure: Schematic of motor driver
 
 
 ### Bluetooth
+
 ![hm10](https://user-images.githubusercontent.com/103535565/165398843-7742576d-44c3-40cd-aa33-84cfaef3434f.png)
 
 
