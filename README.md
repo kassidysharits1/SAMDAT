@@ -15,7 +15,7 @@ The goal of this project is to create a semi-autonomous magnetics data acquisiti
 - 9V batteries for arduinos 
 - Connectors for batteries, arduinos, sensors
 - 3D printed magnetometer extender 
-- Bluetooth (...)
+- Bluetooth HM-10
 
 # Estimated Cost Analysis:
 Below lists the approximated cost of equipment, this parts list assumes buying one sensor as opposed to discounted builk deliveries and does not include tax and shipping. Note that we bought the sensors and arduinos in bulk and therefore our project was a bit less than this cost analysis.
@@ -47,7 +47,11 @@ https://raw.githubusercontent.com/SeeedDocument/Outsourcing/master/6WD/Robot%20C
 Note that we are not using a 9V battery, the battery to power the car is being used here.
 ![driver](https://user-images.githubusercontent.com/103535565/164105223-9fe2444b-2959-419b-9bd1-f1e9fb3f1ce8.png)
 Figure: Schematic of motor driver
- 
+
+
+### Bluetooth
+![hm10](https://user-images.githubusercontent.com/103535565/165398843-7742576d-44c3-40cd-aa33-84cfaef3434f.png)
+
 
 ### Battery
 
