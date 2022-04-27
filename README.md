@@ -73,7 +73,8 @@ Attached is the solid works file for the 10 inch 3D printed rod that extends fro
 ### GPS
 
 # Video
-
+Below shows a video of SAMDAT in action on the Colorado School of Mines campus. 
+https://user-images.githubusercontent.com/103535565/165623426-cf573f2c-155d-4962-ba4c-ab2bb2be90a3.mov
 
 # Improvements and Potentials
 There is large potential with this project to be applied to other geophysical problems using various sensors. By making interchangeable attachments, there is the potential to use other geophysical equipment. The 3D printed rod we attached for the magnetometer is removable and could be replaced with an attached cart that can hold various equipment. 
