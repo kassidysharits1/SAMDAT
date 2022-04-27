@@ -5,7 +5,7 @@ The goal of this project is to create a semi-autonomous magnetics data acquisiti
 
 # Equipment
 - Magnetic Fluxgate (https://www.mouser.com/ProductDetail/Texas-Instruments/DRV425EVM?qs=yajEpaT76uTkcWWoySodDw%3D%3D&mgh=1&gclid=Cj0KCQjwxtSSBhDYARIsAEn0thRVnLII2vq4DKnGoKh8iU-lrGUxeFzoDiNuYIRZ3_PHS2sOGBCqnD4aAnOFEALw_wcB) 
-- GPS (...)
+- GPS (https://www.openimpulse.com/blog/products-page/product-category/gy-neo6mv2-gps-module/) 
 - Robotics Kits Robot Car Kit-6WD Off-Road Chassis (https://www.electromaker.io/shop/product/robot-car-kit-6wd-off-road-chassis) 
 - Arduino Mega 2560 (2) (https://store-usa.arduino.cc/products/arduino-mega-2560-rev3?selectedStore=us)
 - Ethernet Shield (https://www.amazon.com/SunFounder-Ethernet-Shield-W5100-Arduino/dp/B00HG82V1A/ref=asc_df_B00HG82V1A/?tag=hyprod-20&linkCode=df0&hvadid=309776868400&hvpos=&hvnetw=g&hvrand=204336615774606264&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9028824&hvtargid=pla-404289809670&psc=1)
@@ -15,7 +15,7 @@ The goal of this project is to create a semi-autonomous magnetics data acquisiti
 - 9V batteries for arduinos 
 - Connectors for batteries, arduinos, sensors
 - 3D printed magnetometer extender 
-- Bluetooth HM-10
+- Bluetooth HM-10 (https://makersportal.com/blog/2017/9/20/hm-10-bluetooth-module) 
 
 # Estimated Cost Analysis:
 Below lists the approximated cost of equipment, this parts list assumes buying one sensor as opposed to discounted builk deliveries and does not include tax and shipping. Note that we bought the sensors and arduinos in bulk and therefore our project was a bit less than this cost analysis.
