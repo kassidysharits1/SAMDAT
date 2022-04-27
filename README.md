@@ -1,5 +1,5 @@
 # SAMDAT
-<img src="https://user-images.githubusercontent.com/103535565/165619637-e3b8099c-63ee-4036-9353-330022a70ceb.jpg" width="50">
+<img src="https://user-images.githubusercontent.com/103535565/165619637-e3b8099c-63ee-4036-9353-330022a70ceb.jpg" width="100">
 
 
 
