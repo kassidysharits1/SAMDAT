@@ -1,5 +1,5 @@
 # SAMDAT
-![IMG_2204](https://user-images.githubusercontent.com/103535565/165619637-e3b8099c-63ee-4036-9353-330022a70ceb.jpg | width=50)
+![IMG_2204](https://user-images.githubusercontent.com/103535565/165619637-e3b8099c-63ee-4036-9353-330022a70ceb.jpg)
 
 The goal of this project is to create a semi-autonomous magnetics data acquisition tool (SAMDAT). The use of a semi-autonomous vehicle for geophysical data acquisition yields the possibility for quick and efficient surveying. We see rovers being used on other planets, however in the geophysics industry on Earth this is not seen often. This project will aim to create a semi- autonomous tool to collect magnetic data. The goal is for the final product to be relatively low cost and to hopefully have the ability to be used for other geophysical applications with a selection of sensors. 
 
