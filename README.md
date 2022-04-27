@@ -1,5 +1,5 @@
 # SAMDAT
-replace ![IMG_2204](https://user-images.githubusercontent.com/103535565/165619637-e3b8099c-63ee-4036-9353-330022a70ceb.jpg) with <img src="https://user-images.githubusercontent.com/103535565/165619637-e3b8099c-63ee-4036-9353-330022a70ceb.jpg" width="50 height="50>
+![IMG_2204](https://user-images.githubusercontent.com/103535565/165619637-e3b8099c-63ee-4036-9353-330022a70ceb.jpg) with <img src="https://user-images.githubusercontent.com/103535565/165619637-e3b8099c-63ee-4036-9353-330022a70ceb.jpg" width="50">
 
 
 
