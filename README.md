@@ -12,12 +12,11 @@ The goal of this project is to create a semi-autonomous magnetics data acquisiti
 - Arduino Mega 2560 (2) (https://store-usa.arduino.cc/products/arduino-mega-2560-rev3?selectedStore=us)
 - Ethernet Shield (https://www.amazon.com/SunFounder-Ethernet-Shield-W5100-Arduino/dp/B00HG82V1A/ref=asc_df_B00HG82V1A/?tag=hyprod-20&linkCode=df0&hvadid=309776868400&hvpos=&hvnetw=g&hvrand=204336615774606264&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9028824&hvtargid=pla-404289809670&psc=1)
 - Micro SD
-- Motor Driver (3) (https://create.arduino.cc/projecthub/ryanchan/how-to-use-the-l298n-motor-driver-b124c5)
+- Motor Driver (2-3) (https://create.arduino.cc/projecthub/ryanchan/how-to-use-the-l298n-motor-driver-b124c5)
 - Battery to power car (https://hobbyking.com/en_us/turnigy-5000mah-3s-20c-lipo-pack-xt-90.html?wrh_pdp=2&utm_source=google&utm_medium=cpc&utm_campaign=google_us_shopping&countrycode=US&gclid=CjwKCAjwu_mSBhAYEiwA5BBmf9hNaCIyZdIzoVELx6cEg9BdRALHj29-YBhEXm_Waaq41nGKFEynphoCsN4QAvD_BwE)
 - 9V batteries for arduinos 
 - Connectors for batteries, arduinos, sensors
 - 3D printed magnetometer extender 
-- Bluetooth HM-10 (https://makersportal.com/blog/2017/9/20/hm-10-bluetooth-module) 
 
 # Estimated Cost Analysis:
 Below lists the approximated cost of equipment, this parts list assumes buying one sensor as opposed to discounted builk deliveries and does not include tax and shipping. Note that we bought the sensors and arduinos in bulk and therefore our project was a bit less than this cost analysis.
@@ -30,7 +29,6 @@ Below lists the approximated cost of equipment, this parts list assumes buying o
 - Battery: $20.89
 - 9V batteries: $2 (2)
 - GPS: 
-- Bluetooth: 
 
 
 Total: $271.61
@@ -50,10 +48,6 @@ Note that we are not using a 9V battery, the battery to power the car is being u
 ![driver](https://user-images.githubusercontent.com/103535565/164105223-9fe2444b-2959-419b-9bd1-f1e9fb3f1ce8.png)
 Figure: Schematic of motor driver
 
-
-### Bluetooth
-Bluetooth device...
-![hm10](https://user-images.githubusercontent.com/103535565/165398843-7742576d-44c3-40cd-aa33-84cfaef3434f.png)
 
 
 ### Magnetic Fluxgate 
@@ -82,7 +76,7 @@ Attached is the solid works file for the 10 inch 3D printed rod that extends fro
 Location: Kafadar Commons, Colorado School of Mines
 
 # Video
-We can make a video showing it in action here...
+
 
 # Improvements
 There are many improvements that can be made and this project has many future potentials... 
