@@ -72,9 +72,6 @@ Attached is the solid works file for the 10 inch 3D printed rod that extends fro
 
 ### GPS
 
-# Test Survey
-Location: Kafadar Commons, Colorado School of Mines
-
 # Video
 
 
@@ -82,6 +79,7 @@ Location: Kafadar Commons, Colorado School of Mines
 There is large potential with this project to be applied to other geophysical problems using various sensors. By making interchangeable attachments, there is the potential to use other geophysical equipment. The 3D printed rod we attached for the magnetometer is removable and could be replaced with an attached cart that can hold various equipment. 
 
 Specific Recommended improvements:
+
 -Include Bluetooth activation so you can control from your phone as apposed to presetting code to drive the survey lines.
   - Recommended bluetooth device for apple products: HM-10 Bluetooth
 
