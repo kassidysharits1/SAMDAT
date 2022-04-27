@@ -74,6 +74,7 @@ Attached is the solid works file for the 10 inch 3D printed rod that extends fro
 
 # Video
 Below shows a video of SAMDAT in action on the Colorado School of Mines campus. 
+
 https://user-images.githubusercontent.com/103535565/165623426-cf573f2c-155d-4962-ba4c-ab2bb2be90a3.mov
 
 # Improvements and Potentials
