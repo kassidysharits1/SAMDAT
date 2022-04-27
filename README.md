@@ -78,11 +78,18 @@ Location: Kafadar Commons, Colorado School of Mines
 # Video
 
 
-# Improvements
+# Improvements and Potentials
+There is large potential with this project to be applied to other geophysical problems using various sensors. By making interchangeable attachments, there is the potential to use other geophysical equipment. The 3D printed rod we attached for the magnetometer is removable and could be replaced with an attached cart that can hold various equipment. 
+
+Specific Recommended improvements:
+-Include Bluetooth activation so you can control from your phone as apposed to presetting code to drive the survey lines.
+  - Recommended bluetooth device for apple products: HM-10 Bluetooth
+
+
 There are many improvements that can be made and this project has many future potentials... 
 
 Add a surveyor's wheel for better precision 
 
 Make some sort of box or cover to make it water proof? 
 
-There is large potential with this project to be applied to other geophysical problems using various sensors. By making interchangeable attachments, there is the potential to use other geophysical equipment. The 3D printed rod we attached for the magnetometer is removable and could be replaced with an attached cart that can hold various equipment. 
+
