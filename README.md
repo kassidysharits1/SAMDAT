@@ -72,6 +72,9 @@ Attached is the solid works file for the 10 inch 3D printed rod that extends fro
 
 ### GPS
 
+# Test Survey
+show video and data? 
+
 # Video
 Below shows a video of SAMDAT in action on the Colorado School of Mines campus. 
 
