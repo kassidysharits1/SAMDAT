@@ -92,5 +92,7 @@ Specific Recommended improvements:
   - Recommended bluetooth device for apple products: HM-10 Bluetooth
 - Add a surveyor's wheel for better distance precision/accuracy
 - Improve weight distribution: the rover currently drives slightly crooked because the weight is not distributed evenly (mainly the heavy battery causing these issues).
+- Adaptive driving from GPS information paired with wheel position sensors.
+- Waterproofing for all weather conditions.
 
 
