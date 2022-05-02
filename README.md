@@ -67,10 +67,12 @@ Because the robotic car and the arduinos are magnetic, the magnetic fluxgate nee
 
 https://user-images.githubusercontent.com/103535565/163262615-a055875f-b65d-4c38-8e55-ccc3797bc589.MOV
 
+### GPS
+Still need to find schematic for gps...
+
 ### 3D Printed Magnetometer Extender
 Attached is the solid works file for the 10 inch 3D printed rod that extends from the car. 
 
-### GPS
 
 # Test Survey
 show video and data? 
