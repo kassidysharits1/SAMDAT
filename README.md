@@ -48,6 +48,7 @@ Note that we are not using a 9V battery, the battery to power the car is being u
 ![driver](https://user-images.githubusercontent.com/103535565/164105223-9fe2444b-2959-419b-9bd1-f1e9fb3f1ce8.png)
 Figure: Schematic of motor driver
 
+![Drive System Diagram](https://user-images.githubusercontent.com/104653490/166325154-eeae1fd4-4503-4b32-a7d5-58df1bd26b33.png)
 
 
 ### Magnetic Fluxgate 
