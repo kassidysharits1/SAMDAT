@@ -12,6 +12,7 @@ The goal of this project is to create a semi-autonomous magnetics data acquisiti
 - Arduino Mega 2560 (2) (https://store-usa.arduino.cc/products/arduino-mega-2560-rev3?selectedStore=us)
 - Ethernet Shield (https://www.amazon.com/SunFounder-Ethernet-Shield-W5100-Arduino/dp/B00HG82V1A/ref=asc_df_B00HG82V1A/?tag=hyprod-20&linkCode=df0&hvadid=309776868400&hvpos=&hvnetw=g&hvrand=204336615774606264&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9028824&hvtargid=pla-404289809670&psc=1)
 - Micro SD
+- Bluetooth (https://makersportal.com/blog/2017/9/20/hm-10-bluetooth-module)
 - Motor Driver (2-3) (https://create.arduino.cc/projecthub/ryanchan/how-to-use-the-l298n-motor-driver-b124c5)
 - Battery to power car (https://hobbyking.com/en_us/turnigy-5000mah-3s-20c-lipo-pack-xt-90.html?wrh_pdp=2&utm_source=google&utm_medium=cpc&utm_campaign=google_us_shopping&countrycode=US&gclid=CjwKCAjwu_mSBhAYEiwA5BBmf9hNaCIyZdIzoVELx6cEg9BdRALHj29-YBhEXm_Waaq41nGKFEynphoCsN4QAvD_BwE)
 - 9V batteries for arduinos 
@@ -70,6 +71,10 @@ https://user-images.githubusercontent.com/103535565/163262615-a055875f-b65d-4c38
 
 ### GPS
 Still need to find schematic for gps...
+
+### Bluetooth
+![hm10](https://user-images.githubusercontent.com/103535565/166400664-e1498f68-d04c-4833-9c02-fc6e95b77e2f.png)
+
 
 ### 3D Printed Magnetometer Extender
 The solid works file for this project are attached in this github directory. 
