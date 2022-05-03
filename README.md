@@ -72,7 +72,7 @@ https://user-images.githubusercontent.com/103535565/163262615-a055875f-b65d-4c38
 Still need to find schematic for gps...
 
 ### 3D Printed Magnetometer Extender
-Attached is the solid works file for the 10 inch 3D printed rod that extends from the car. 
+The solid works file for this project are attached in this github directory. 
 
 
 # Test Survey
