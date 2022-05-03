@@ -28,10 +28,10 @@ Below lists the approximated cost of equipment, this parts list assumes buying o
 - Motor Driver: $6.99 (3)
 - Battery: $20.89
 - 9V batteries: $2 (2)
-- GPS: 
+- GPS: $10
 
 
-Total: $271.61
+Total: $281.61
 
 # Design
 ### Robotic Car Kit
