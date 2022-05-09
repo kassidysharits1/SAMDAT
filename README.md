@@ -84,7 +84,10 @@ The following diagrams show the wiring diagrams for the driving and data collect
 ![Data Collection System Diagram](https://user-images.githubusercontent.com/104653490/166613674-a4d9ae02-d3af-462b-b27d-1566aef6fd9b.png)
 
 # Test Survey
-show video and data? 
+This video shows the SAMDAT in action in a hallway running over a series of fridge magnets.
+
+https://user-images.githubusercontent.com/104784140/167321360-39053b76-8c38-48cc-887e-6265c37ef1ad.mp4
+
 
 # Video
 Below shows a video of SAMDAT in action on the Colorado School of Mines campus. 
